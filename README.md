@@ -189,6 +189,30 @@ Gradient Boosting also demonstrated competitive performance with the highest F1 
 
 ---
 
+## 📊 Confusion Matrix
+
+The confusion matrix shows the model's classification performance by comparing actual and predicted customer churn.
+
+![Confusion Matrix](Images/confusion_matrix.png)
+
+---
+
+## 📈 ROC Curve
+
+The ROC Curve evaluates the model's ability to distinguish between churn and non-churn customers across different classification thresholds.
+
+![ROC Curve](Images/roc_curve.png)
+
+---
+
+## ⭐ Feature Importance
+
+Feature importance highlights the variables that have the greatest influence on predicting customer churn.
+
+![Feature Importance](Images/feature_importance.png)
+
+---
+
 # 📌 Project Results
 
 The developed machine learning models successfully predicted customer churn using historical customer data.
