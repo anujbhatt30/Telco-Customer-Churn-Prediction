@@ -314,4 +314,4 @@ Aspiring Machine Learning Enthusiast Thank you
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
-Thank you
+Thank you!
