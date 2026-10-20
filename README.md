@@ -307,7 +307,6 @@ Telco-Customer-Churn-Prediction
 
 GitHub: https://github.com/anujbhatt30
 
-Aspiring Machine Learning Enthusiast Thank you
 ---
 
 # ⭐ Support
